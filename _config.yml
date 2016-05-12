@@ -1,0 +1,28 @@
+name: DrKevinSkinner
+favicon: null
+layout_spectrum: 0.38675776217132807
+typography_spectrum: 0.21773046697489917
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7361344806849957
+  lightness: 0.47948582423850894
+  saturation: 0.17154330597259104
+  rhythmicContrast: 0.9856248761061579
+purpose: []
